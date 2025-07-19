@@ -5,9 +5,11 @@
   "dependencies": {
     "@custom-react-hooks/use-effect-once": "^1.5.1",
     "@reduxjs/toolkit": "^2.5.1",
+    "@tanstack/react-table": "^8.21.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.10.0",
     "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-dom": "^18.3.1",
